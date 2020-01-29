@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "ReaderApi": "https://localhost:44324/api/FileUpload",
+    "TableList": "TestTableName1,TestTableName2"
+  }
+}
